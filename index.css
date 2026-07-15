@@ -24,3 +24,8 @@ header ul li a{
     text-decoration: inherit;
 } 
 /* 나중에 a 다 붙이면 a에다가 hover 넣고 li:hover 지우면 깔끔 */
+#main_picture{
+    height: 464px;
+    width: 100%;
+    display: block;
+}
