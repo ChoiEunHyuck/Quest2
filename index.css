@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 120px;
+    background-color: white;
+    display: block;
+    text-align: center;
+}
+header ul{
+    padding-top: 33px;
+}
+header ul li{
+    margin: 0 40px;
+    display: inline-block;
+}
+header ul li:hover{
+    color: red;
+    text-decoration: underline;
+}
+header ul li a{
+    color: inherit;
+    text-decoration: inherit;
+} 
+/* 나중에 a 다 붙이면 a에다가 hover 넣고 li:hover 지우면 깔끔 */
