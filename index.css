@@ -56,3 +56,23 @@ header ul li a{
     /* background-color: aliceblue; */
     text-align: center;
 }
+#chefs{
+    background-color:rgb(236,236,236);
+}
+#chefs > div{
+    width: 771px;
+    height: 304px;
+    background-color:rgb(174, 224, 240);
+    margin: 30px auto;
+    display: flex;
+    gap: 30px;
+}
+#chefs > div > div{
+    width: 500px;
+    margin: 50px 0;
+    font-size: 14px;
+}
+#chefs div h2{
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
